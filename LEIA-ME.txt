@@ -1,15 +1,26 @@
-COINÊ — GREGO BÍBLICO (VERSÃO INICIAL)
+COINÊ — GREGO BÍBLICO | VERSÃO 1.1 (18/11/2026)
 
-PUBLICAÇÃO NO GITHUB PAGES
-1. Crie um repositório público no GitHub (ex.: coine-grego).
-2. Envie os cinco arquivos desta pasta para a raiz do repositório: index.html, app.js, sw.js, manifest.webmanifest, icon.svg.
-3. Abra Settings (Configurações) > Pages (Páginas).
-4. Em Build and deployment, escolha Deploy from a branch; branch main e pasta /(root). Salve.
-5. Aguarde a publicação e abra o endereço mostrado em Pages.
-6. No celular, abra o link no navegador e use a opção Instalar aplicativo ou Adicionar à tela inicial.
+ORGANIZAÇÃO DOS ESTUDOS
+• Aulas regulares: lições 16 a 31. São 16 resumos originais, cada um com exercícios autorais de revisão, exemplos e indicação das páginas e seções da gramática.
+• Prova de vocabulário: lições 16 a 22, com preposições e verbos da lição 18, além de cartões e simulados.
+• Tenho prova!: escolha várias lições, gramática OU vocabulário, e o número de questões.
+• Histórico local e revisões de erros. Não exige cadastro.
+• A versão 1.1 preserva as chaves de histórico já usadas pela versão anterior.
 
-OBSERVAÇÕES
-- Após a primeira abertura online, o aplicativo poderá funcionar offline, desde que o navegador tenha armazenado os arquivos.
-- Os resultados são guardados apenas no navegador/dispositivo; não sincronizam entre aparelhos.
-- Vocabulário inicial, ainda sujeito à conferência integral com as páginas do livro e a professora.
-- Para atualizar o aplicativo, substitua os arquivos e aumente o número de versão CACHE no sw.js.
+CONFERÊNCIA DA FONTE
+SCHALKWIJK, Francisco Leonardo. Coinê: pequena gramática do grego neotestamentário.
+Referências por lição e páginas impressas da obra (não são as posições do visualizador de PDF).
+Este aplicativo NÃO reproduz integralmente o livro. Os resumos e exercícios são redigidos de forma independente e devem ser comparados com o material utilizado pela professora.
+
+COMO ATUALIZAR O MESMO SITE NO GITHUB
+1) Abra o repositório coine-grego-biblico.
+2) Clique em Add file (Adicionar arquivo) → Upload files (Enviar arquivos).
+3) Selecione TODOS OS ARQUIVOS DE DENTRO DESTA PASTA, não o ZIP.
+4) O GitHub reconhecerá os arquivos existentes; confirme a substituição quando solicitado.
+5) Clique em Commit changes (Salvar alterações).
+6) Em Settings (Configurações) → Pages (Páginas), mantenha main e /(root).
+7) Após a publicação, abra o mesmo link do aplicativo e atualize a página com internet pelo menos uma vez para carregar a versão atualizada. Teste offline em seguida.
+
+IMPORTANTE: A pasta coine-app é apenas organizacional. O conteúdo dos arquivos deve estar na raiz do repositório, junto do index.html. NÃO crie uma segunda pasta coine-app dentro do GitHub.
+
+Sem servidor, sem banco de dados externo, sem login e sem custo de hospedagem no GitHub Pages (repositório público).
