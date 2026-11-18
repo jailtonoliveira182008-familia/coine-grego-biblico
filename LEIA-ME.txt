@@ -1,0 +1,15 @@
+COINÊ — GREGO BÍBLICO (VERSÃO INICIAL)
+
+PUBLICAÇÃO NO GITHUB PAGES
+1. Crie um repositório público no GitHub (ex.: coine-grego).
+2. Envie os cinco arquivos desta pasta para a raiz do repositório: index.html, app.js, sw.js, manifest.webmanifest, icon.svg.
+3. Abra Settings (Configurações) > Pages (Páginas).
+4. Em Build and deployment, escolha Deploy from a branch; branch main e pasta /(root). Salve.
+5. Aguarde a publicação e abra o endereço mostrado em Pages.
+6. No celular, abra o link no navegador e use a opção Instalar aplicativo ou Adicionar à tela inicial.
+
+OBSERVAÇÕES
+- Após a primeira abertura online, o aplicativo poderá funcionar offline, desde que o navegador tenha armazenado os arquivos.
+- Os resultados são guardados apenas no navegador/dispositivo; não sincronizam entre aparelhos.
+- Vocabulário inicial, ainda sujeito à conferência integral com as páginas do livro e a professora.
+- Para atualizar o aplicativo, substitua os arquivos e aumente o número de versão CACHE no sw.js.
